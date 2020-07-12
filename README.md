@@ -2,6 +2,7 @@
 
 ## Spring Security Architecture
 
+![spring security arch diagram](https://user-images.githubusercontent.com/9671419/87248922-9e0d9a80-c479-11ea-9ca4-05f0f6d619c5.JPG)
 
 ## DataBase Details 
 
@@ -42,7 +43,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
 
 ## URL's :
 
-login : user
+login : user & password : pass
 
 ![j_1](https://user-images.githubusercontent.com/9671419/87248773-19228100-c479-11ea-8a3b-3eadf220a076.PNG)
 
