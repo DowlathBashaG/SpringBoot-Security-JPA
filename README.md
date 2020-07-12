@@ -51,7 +51,6 @@ login : user & password : pass
 
 ![J_3](https://user-images.githubusercontent.com/9671419/87248775-1a53ae00-c479-11ea-8709-3c22b17ae863.PNG)
 
-![J_4](https://user-images.githubusercontent.com/9671419/87248772-17f15400-c479-11ea-9c0d-e892d96d93a8.PNG)
 
 
 
