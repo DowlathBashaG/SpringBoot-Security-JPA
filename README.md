@@ -4,7 +4,7 @@
 
 ![spring security arch diagram](https://user-images.githubusercontent.com/9671419/87248922-9e0d9a80-c479-11ea-9ca4-05f0f6d619c5.JPG)
 
-## DataBase Details 
+## DataBase Details (MySQL)
 
 - create database myspringsecurity;
 
