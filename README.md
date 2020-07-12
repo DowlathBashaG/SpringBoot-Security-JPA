@@ -2,6 +2,26 @@
 
 ## Spring Security Architecture
 
+
+## DataBase Details 
+
+- create database myspringsecurity;
+
+- use myspringsecurity;
+
+- create table user(
+   id INT NOT NULL AUTO_INCREMENT,
+   userName VARCHAR(100) NOT NULL,
+   password VARCHAR(40) NOT NULL,
+   active boolean NOT NULL,
+   roles VARCHAR(40) NOT NULL,
+   PRIMARY KEY ( id )
+);
+
+- INSERT INTO user (username, password, active, roles) values( 'user','pass',true,'ROLE_USER');
+
+- select * from user;
+
 ## URL's :
 
 login : user
