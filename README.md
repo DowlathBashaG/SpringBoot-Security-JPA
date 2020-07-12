@@ -22,6 +22,24 @@
 
 - select * from user;
 
+## Application Property 
+
+server.port=9090
+
+spring.datasource.url=jdbc:mysql://localhost:3306/myspringsecurity
+
+spring.datasource.username=root
+
+spring.datasource.password =root123
+
+spring.jpa.hibernate.ddl-auto=update
+
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+spring.jpa.hibernate.naming-strategy=org.hibernate.cfg.ImprovedNamingStrategy
+
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
+
 ## URL's :
 
 login : user
